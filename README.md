@@ -30,7 +30,7 @@
 ![Screenshot](/lab2/Screenshot_3.png)
 3. Чтобы вывести листинг процессов для определенного пользователя, выйдем из пользователя "root" 
 ![Screenshot](/lab2/Screenshot_4.png)
-![Screenshot](/lab2/Screenshot_4_2.png)
+![Screenshot](/lab2/Screenshot_4_2_1.png)
 4. Воспользуемся редактором "vi" и создадим программу с помощью команды "vi s.py": Перейдем в режив ввода нажатием клавиши "i" и введем текст программы:
 ![Screenshot](/lab2/Screenshot_5.png)
 Сохраним и выйдем из редактора
